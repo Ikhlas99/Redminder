@@ -58,6 +58,7 @@ public class Redminder {
         Thread.sleep(500);
         driver.navigate().back();
         driver.findElement(By.id("logOutBtn")).click();
+        // I making a little change
 
 
     }
